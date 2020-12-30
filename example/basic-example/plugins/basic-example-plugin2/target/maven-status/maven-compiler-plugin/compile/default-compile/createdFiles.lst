@@ -1,0 +1,11 @@
+com\basic\example\plugin2\service\CallerService$PluginInfo.class
+com\basic\example\plugin2\service\ConsoleNameImpl.class
+com\basic\example\plugin2\rest\HelloPlugin2.class
+com\basic\example\plugin2\service\Service2.class
+com\basic\example\plugin2\service\CallerService.class
+com\basic\example\plugin2\config\Plugin2Config.class
+com\basic\example\plugin2\DefinePlugin.class
+com\basic\example\plugin2\rest\ProxyController.class
+com\basic\example\plugin2\config\Sub2Config.class
+com\basic\example\plugin2\service\CallerService$CallerInfo.class
+com\basic\example\plugin2\service\HelloService.class

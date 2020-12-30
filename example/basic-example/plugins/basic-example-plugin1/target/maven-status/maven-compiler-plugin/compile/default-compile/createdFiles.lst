@@ -1,0 +1,13 @@
+com\basic\example\plugin1\service\HelloService.class
+com\basic\example\plugin1\service\SupplierService$CallerInfo.class
+com\basic\example\plugin1\service\Service2.class
+com\basic\example\plugin1\config\PluginConfig1.class
+com\basic\example\plugin1\service\SupplierService$PluginInfo.class
+com\basic\example\plugin1\PluginListener2.class
+com\basic\example\plugin1\service\ConsoleNameImpl.class
+com\basic\example\plugin1\service\SupplierService.class
+com\basic\example\plugin1\config\SubConfig.class
+com\basic\example\plugin1\service\HelloImp1.class
+com\basic\example\plugin1\DefinePlugin.class
+com\basic\example\plugin1\PluginListener1.class
+com\basic\example\plugin1\rest\HelloPlugin1.class

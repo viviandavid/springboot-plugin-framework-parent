@@ -1,0 +1,14 @@
+com\basic\example\main\config\PluginBeanConfig.class
+com\basic\example\main\config\Swagger2Config.class
+com\basic\example\main\rest\PluginResource.class
+com\basic\example\main\invokeapi\CommonParam.class
+com\basic\example\main\plugin\ConsoleName.class
+com\basic\example\main\rest\HelloResource.class
+com\basic\example\main\plugin\DefaultConsoleName.class
+com\basic\example\main\ExampleMain.class
+com\basic\example\main\plugin\ConsoleNameFactory.class
+com\basic\example\main\invokeapi\CommonReturn.class
+com\basic\example\main\plugin\Hello.class
+com\basic\example\main\config\ExamplePluginListener.class
+com\basic\example\main\config\PluginConfiguration.class
+com\basic\example\main\config\PluginListener.class
